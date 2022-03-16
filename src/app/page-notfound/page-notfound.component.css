@@ -1,0 +1,14 @@
+.container{
+    margin-top: 120px;
+}
+
+.btn-green{
+    transition: 2s;
+}
+
+.btn-green:hover, 
+.btn-green:focus, 
+.btn-green:acitive {
+    background-color: green;
+    color: white
+}
